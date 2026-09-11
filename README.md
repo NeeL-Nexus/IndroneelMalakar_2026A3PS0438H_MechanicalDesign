@@ -16,3 +16,8 @@ Part 3 - Landing gear design
 Submitted by the name Aeolus task 2.f3d
 only posted 1 leg out of the 4 landing gears as suggested by seniors
 (also did the stress test and uploaded the report)
+
+Here is the study report of the stress test is uploaded as 
+LandingGear_report.pdf
+
+
